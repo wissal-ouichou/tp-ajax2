@@ -1,6 +1,6 @@
 # tp-ajax2
 # Fonctionnalités :
-Cette application permet d'afficher les étudiants, les machines, les marques, les machines par marque et les machines par référence.Ainsi la modification des étudiants, des machines et des marques. En plus la suppression des étudiants, des machines et des marques.
+Cette application permet d'afficher les étudiants, les machines et les marques.Ainsi la modification des étudiants, des machines et des marques et leur suppression. En utilisant une interface complète et conviviale.
 # Screenshots :
 ![interface](https://github.com/wissal-ouichou/tp-ajax2/assets/147499172/cc747b8f-f1ae-4bbd-b2d1-6f663fc7ded0)
 ![INTERFACE WEB](https://github.com/wissal-ouichou/tp-ajax2/assets/147499172/87c49cf4-1d61-4e97-b46c-fb005ef90de0)
